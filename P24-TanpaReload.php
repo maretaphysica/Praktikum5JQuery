@@ -13,10 +13,10 @@
         </header>
         <div class="menu">
             <ul>
-                <li>a class="klik_menu" id="home">HOME</a></li>
-                <li>a class="klik_menu" id="tentang">TENTANG</a></li>
-                <li>a class="klik_menu" id="tutorial">TUTORIAL</a></li>
-                <li>a class="klik_menu" id="sosmed">SOSIAL MEDIA</a></li>
+                <li><a class="klik_menu" id="home">HOME</a></li>
+                <li><a class="klik_menu" id="tentang">TENTANG</a></li>
+                <li><a class="klik_menu" id="tutorial">TUTORIAL</a></li>
+                <li><a class="klik_menu" id="sosmed">SOSIAL MEDIA</a></li>
             </ul>
         </div>
         <div class="badan">
